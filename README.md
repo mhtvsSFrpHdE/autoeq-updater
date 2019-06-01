@@ -1,4 +1,7 @@
 # autoeq-updater
+**Contact**  
+See https://github.com/mhtvsSFrpHdE/contact-me  
+
 **What is this**  
 Since I have wrote a tool to work with AutoEq,  
 I'll need a method for upgrade AutoEq version but without download entire git repo.  
