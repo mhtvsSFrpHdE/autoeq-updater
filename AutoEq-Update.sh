@@ -6,7 +6,7 @@ export autoEqInstPath="/c/AutoEq-master"
 # AutoEq data backup folder
 export tempPath="/c/Temp/AutoEqBackup"
 # Files to backup, if a folder, set without the "/".
-fileListArray=("autoeq-batch-generator.ps1" "cstpw.ps1" "targetCurve.json" "myresults")
+fileListArray=("autoeq-batch-generator.ps1" "AutoEq-Update-Shortcut.sh" "cstpw.ps1" "simplecatch.ps1" "multiHeadphone.json" "targetCurve.json" "regenerate.json" "myresults")
 export autoEqFileList="${fileListArray[@]}"
 
 # Run subscripts to do job
