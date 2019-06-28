@@ -6,7 +6,9 @@ mkdir -p $TempPath
 # Move downloaded 3rd party files to backup folder
 for file in $autoEqFileList;
 do
-	cp -r "$tempPath/$file" $autoEqInstPath
+	#TODO slow fast mode
+	# cp -r "$tempPath/$file" $autoEqInstPath
+	mv "$tempPath/$file" $autoEqInstPath
 done
 
 exit
