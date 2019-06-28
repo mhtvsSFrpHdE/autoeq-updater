@@ -8,6 +8,7 @@ git reset --hard
 # Get latest update
 git fetch
 # GIT'EM ALL
+git checkout master
 git clean -fdx
 
 exit
